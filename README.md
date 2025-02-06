@@ -1,6 +1,6 @@
 # Meaningless Words Generator
 
-This should generate a meaningless words <br>
+This should generate a meaningless words <br><br>
 parameters 'mu' are average lenght of a word in english, may warry for different purposes <br>
 and the 'sigma' are standard deviation, <br>
 the range() starts from -1 as seems for to fix a cases of empty words output <br>
